@@ -2,13 +2,13 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 
 <p align="center"> 
-- 🌱 I’m currently learning **DevOps Technology Stack**
+  - 🌱 I’m currently learning <b>DevOps Technology Stack</b>
 </p>
 <p align="center"> 
-- 💬 Ask me about **Python and React**
+- 💬 Ask me about <b>Python and React</b>
 </p>
 <p align="center"> 
-- 📫 How to reach me **norbertbaran1@gmail.com**
+  - 📫 How to reach me <b>norbertbaran1@gmail.com</b>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
