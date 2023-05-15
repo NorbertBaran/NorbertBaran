@@ -8,6 +8,15 @@
 - 💬 Ask me about <b>Python and React</b>
 </p>
 <p align="center"> 
+- 🔭 Check other projects I'm contributor:
+</p>
+<p align="center"> 
+  <a href="https://sfi.pl/en/" target="_blank"><b>SFI IT Academic Festival</b></a>
+<p/>
+<p align="center">
+  <a href="https://seekfindinput.sfi.pl/about/" target="_blank"><b>Seek Find Input Competition</b></a>
+</p>
+<p align="center"> 
   - 📫 How to reach me <b>norbertbaran1@gmail.com</b>
 </p>
 
